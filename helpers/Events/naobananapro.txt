@@ -1,0 +1,293 @@
+/* ✦ CAP HYTAM LEGAM DAKIAN KEK ARANG ✦
+
+ Berbagi fitur SC Bella
+
+ NAMA FITUR :
+ SOURCE :
+
+ CREATOR : AlbertLazovsky
+ CONTACT : 083846359386
+ LINK GC : https://chat.whatsapp.com/GGjR1bhh12vBsXtkkcgPAo
+ LINK CH : https://whatsapp.com/channel/0029Vb71Xk7EFeXeX06Gpf1
+*/
+
+const axiosMod = await "axios".import()
+let cryptoMod
+try {
+ cryptoMod = await "node:crypto".import()
+} catch {
+ cryptoMod = await "crypto".import()
+}
+const urlMod = await "url".import()
+const formDataMod = await "form-data".import()
+
+const axios = axiosMod?.default || axiosMod
+const crypto = cryptoMod?.default || cryptoMod
+const { URL } = urlMod
+const FormData = formDataMod?.default || formDataMod
+
+const TEMPMAIL_API = Buffer.from(
+ "aHR0cHM6Ly9hcGkubmVrb2xhYnMud2ViLmlkL3Rvb2xzL3RlbXBtYWlsL3Yx",
+ "base64"
+).toString()
+
+const SUPABASE_URL = "https://urrxpnraqkaiickvdtfl.supabase.co"
+const SUPABASE_KEY =
+ "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVycnhwbnJhcWthaWlja3ZkdGZsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTkwNDMzNjMsImV4cCI6MjA3NDYxOTM2M30.JFp8mnLQRuHAh7oYTGXFGP9K9hShl_MxMFZAesNjtcE"
+
+async function uploadImage(buffer) {
+ const form = new FormData()
+ form.append("file", buffer, "image.jpg")
+
+ const res = await axios.post("https://tmpfiles.org/api/v1/upload", form, {
+ headers: form.getHeaders(),
+ timeout: 30000
+ })
+
+ if (!res.data || !res.data.data || !res.data.data.url) {
+ throw new Error("Gagal upload gambar")
+ }
+
+ const originalUrl = res.data.data.url
+ const fileUrl = originalUrl.replace("tmpfiles.org/", "tmpfiles.org/dl/")
+
+ return fileUrl
+}
+
+function sleep(ms) {
+ return new Promise(resolve => setTimeout(resolve, ms))
+}
+
+function generatePKCE() {
+ const verifier = base64URLEncode(crypto.randomBytes(32))
+ const challenge = base64URLEncode(
+ crypto.createHash("sha256").update(verifier).digest()
+ )
+ return { code_verifier: verifier, code_challenge: challenge }
+}
+
+function base64URLEncode(buf) {
+ return buf
+ .toString("base64")
+ .replace(/\+/g, "-")
+ .replace(/\//g, "_")
+ .replace(/=/g, "")
+}
+
+export default async function on({ cht, Exp, store, ev, is }) {
+  ev.on(
+    {
+      cmd: ["artany", "imgedit", "ai-edit"],
+      listmenu: ["artany <reply gambar + prompt>"],
+      tag: "ai",
+      args: "Reply/kirim gambar dengan caption .artany <prompt>"
+    },
+    async ({ cht, Exp }) => {
+ const prompt = String(cht?.q || "").trim()
+const q = cht?.quoted?.download ? cht.quoted : cht
+
+if (!prompt) return cht.reply("Masukkan prompt gaya ubahannya")
+
+const media = await q.download().catch(() => null)
+if (!media || !Buffer.isBuffer(media) || !media.length) return cht.reply("Kirim / reply gambar")
+
+ const media = await q.download().catch(() => null)
+ if (!media || !Buffer.isBuffer(media)) return cht.reply("Gagal ambil gambar, reply ulang.")
+
+ await cht.reply("Sedang memproses gambar, sabar bentar...")
+
+ try {
+  const imageUrl = await uploadImage(media)
+
+
+ // 2. Generate PKCE
+ const { code_verifier, code_challenge } = generatePKCE()
+
+ // 3. Bikin email sementara
+ const mailData = await axios
+ .get(`${TEMPMAIL_API}/create`)
+ .then(r => r.data)
+
+ if (!mailData?.success) throw new Error("Gagal membuat email sementara.")
+
+ const { email, sessionId } = mailData.result
+ const redirectUrl = "http://localhost:3000/callback"
+
+ const headers = {
+ "content-type": "application/json",
+ apikey: SUPABASE_KEY,
+ "user-agent":
+ "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+ }
+
+ // 4. Kirim OTP signup ke email temp
+ await axios.post(
+ `${SUPABASE_URL}/auth/v1/otp?redirect_to=${encodeURIComponent(
+ redirectUrl
+ )}`,
+ {
+ email,
+ create_user: true,
+ gotrue_meta_security: {},
+ code_challenge,
+ code_challenge_method: "s256"
+ },
+ { headers }
+ )
+
+ // 5. Poll inbox buat dapetin link verify → ambil auth code
+ let authCode = null
+ let attempts = 0
+
+ while (attempts < 20 && !authCode) {
+ await sleep(2000)
+
+ const inbox = await axios
+ .get(`${TEMPMAIL_API}/inbox`, {
+ params: { id: sessionId }
+ })
+ .then(r => r.data)
+
+ if (inbox.success && inbox.result.emails?.length) {
+ const mail = inbox.result.emails[0]
+ const content = mail.text || mail.html || ""
+ const match = content.match(
+ /https:\/\/urrxpnraqkaiickvdtfl\.supabase\.co\/auth\/v1\/verify\?token=[^\s"&]+&type=signup&redirect_to=[^\s"&]+/
+ )
+
+ if (match) {
+ const verifyUrl = match[0].replace(/&amp;/g, "&")
+
+ const verifyRes = await axios.get(verifyUrl, {
+ maxRedirects: 0,
+ validateStatus: s => s >= 200 && s < 400
+ })
+
+ const location = verifyRes.headers.location
+ if (location) {
+ const u = new URL(location)
+ authCode = u.searchParams.get("code")
+ }
+ }
+ }
+
+ attempts++
+ }
+
+ if (!authCode) {
+ throw new Error("Gagal mendapatkan Auth Code dari email.")
+ }
+
+ // 6. Tukar auth code → access_token + refresh_token
+ const exchangeRes = await axios.post(
+ `${SUPABASE_URL}/auth/v1/token?grant_type=pkce`,
+ {
+ auth_code: authCode,
+ code_verifier
+ },
+ { headers }
+ )
+
+ const { access_token, refresh_token } = exchangeRes.data || {}
+ if (!access_token) {
+ throw new Error("Gagal menukar kode menjadi token.")
+ }
+
+ const authCookie =
+ "sb-urrxpnraqkaiickvdtfl-auth-token=" +
+ encodeURIComponent(
+ JSON.stringify([access_token, refresh_token, null, null, null])
+ )
+
+ const creditHeaders = {
+ "user-agent": headers["user-agent"],
+ "content-type": "application/json",
+ cookie: authCookie,
+ authority: "www.artany.ai",
+ origin: "https://www.artany.ai",
+ referer: "https://www.artany.ai/"
+ }
+
+ // 7. Cek kredit
+ const creditRes = await axios.post(
+ "https://www.artany.ai/api/credits",
+ {},
+ { headers: creditHeaders }
+ )
+
+ if (!creditRes.data || creditRes.data.credits < 1) {
+ throw new Error(
+ "Akun berhasil dibuat tapi kredit 0. Artany lagi pelit."
+ )
+ }
+
+ // 8. Request generate gambar
+ const genPayload = {
+ prompt,
+ model: "nano-banana-pro-image-editor",
+ enable_safety_checker: false,
+ num_images: 1,
+ aspect_ratio: "1:1",
+ quality: "1k",
+ image_urls: [imageUrl]
+ }
+
+ const genHeaders = {
+ ...creditHeaders,
+ referer: "https://www.artany.ai/ai-image-editor"
+ }
+
+ const genRes = await axios.post(
+ "https://www.artany.ai/api/image-generator/nano-banana-pro",
+ genPayload,
+ { headers: genHeaders }
+ )
+
+ const taskId = genRes.data?.data?.task_id
+ if (!taskId) throw new Error("Gagal memulai task generate.")
+
+ // 9. Poll status sampai SUCCEEDED
+ let finalImageUrl = null
+ let status = "PENDING"
+ let checks = 0
+
+ while (!["SUCCEEDED", "FAILED"].includes(status) && checks < 30) {
+ await sleep(2000)
+
+ const s = await axios.get(
+ `https://www.artany.ai/api/image-task-status?task_id=${taskId}`,
+ { headers: genHeaders }
+ )
+
+ status = s.data?.data?.status
+ if (status === "SUCCEEDED") {
+ finalImageUrl = s.data?.data?.result_images?.[0]?.url
+ }
+
+ checks++
+ }
+
+ if (!finalImageUrl) {
+ throw new Error("Gagal generate gambar atau timeout.")
+ }
+
+ // 10. Kirim hasil ke chat
+ await cht.sendFile(finalImageUrl, "artany.jpg", {
+ caption: `✅ Sukses mengubah gambar.\nPrompt: "${prompt}"`
+ })
+ } catch (e) {
+ console.error("artany error:", e)
+ if (e?.response) {
+ return cht.reply(
+ `Error API (${e.response.status}): ${JSON.stringify(
+ e.response.data
+ )}`
+ )
+ }
+ return cht.reply(
+ "Terjadi kesalahan: " + (e?.message || String(e || "Unknown error"))
+ )
+ }
+ }
+ )
+}
