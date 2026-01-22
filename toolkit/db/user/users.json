@@ -1,0 +1,8963 @@
+{
+  "0": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248293336,
+      "response": false
+    },
+    "lastCharge": 1767244693336,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "110255": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767347413328,
+      "response": false
+    },
+    "lastCharge": 1767343813328,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "149114": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767347413328,
+      "response": false
+    },
+    "lastCharge": 1767343813328,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "701429": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767347413328,
+      "response": false
+    },
+    "lastCharge": 1767343813328,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "174938399": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767323692544,
+      "response": false
+    },
+    "lastCharge": 1767320092544,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "175043405": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767323692544,
+      "response": false
+    },
+    "lastCharge": 1767320092544,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "179738315": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331341987,
+      "response": false
+    },
+    "lastCharge": 1767327741987,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "782402012": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767346940335,
+      "response": false
+    },
+    "lastCharge": 1767343340335,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "999999999": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249193123,
+      "response": false
+    },
+    "lastCharge": 1767245593123,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285198406741": {
+    "chat": 176,
+    "role": "Temen Lama, user premium",
+    "energy": 35,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1768283494832
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766766340183,
+      "response": false
+    },
+    "lastCharge": 1766762740183,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767412865272
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1767422312243,
+    "fswaps": {
+      "list": []
+    },
+    "claimPremTrial": true
+  },
+  "6281904767802": {
+    "chat": 131,
+    "role": "Temen Gosip",
+    "energy": 179938657,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767443525420,
+      "response": false
+    },
+    "lastCharge": 1766766283120,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767504268140
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "𝕽𝖏𝖔 × 𝐉𝐀𝐖𝐀𝐒𝐎𝐅𝐓",
+    "lastChat": 1767504253145,
+    "fswaps": {
+      "list": []
+    },
+    "claimPremTrial": 1766766562982,
+    "reward": {
+      "daily": 1767418008544,
+      "weekly": 1767418012420,
+      "monthly": 1766767225210,
+      "yearly": 1766767243540,
+      "per": 1.0999999999999999
+    },
+    "afk": {
+      "time": 1767504253140,
+      "reason": "mondok"
+    }
+  },
+  "6283151623032": {
+    "chat": 2,
+    "role": "Baru Kenal",
+    "energy": 849999968,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766770762784,
+      "response": false
+    },
+    "lastCharge": 1766767162784,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766855180971
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "fii X Telkomsel",
+    "lastChat": 1767422304503,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1766767269048,
+      "weekly": 1766767279406,
+      "monthly": 0,
+      "yearly": 0,
+      "per": 0.30000000000000004
+    }
+  },
+  "201557886495": {
+    "chat": 21,
+    "role": "Kenalan",
+    "energy": 11208.099,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 3,
+      "reset": 1766991548665,
+      "response": false
+    },
+    "lastCharge": 1766938386725,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768304737675
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1768304723081,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1766938370777,
+      "weekly": 1766938381777,
+      "monthly": 1766938387322,
+      "yearly": 1766938393416,
+      "per": 0.5
+    },
+    "claimPremTrial": true,
+    "name": "ች𝑳𝒚𝒔𝒕𝒊𝒄/íd.co/kaizy"
+  },
+  "6288287754628": {
+    "chat": 16,
+    "role": "Kenalan",
+    "energy": 402731236870,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766791855654,
+      "response": false
+    },
+    "lastCharge": 1766788255654,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766900735766
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "ㅤ",
+    "lastChat": 1767422290821,
+    "reward": {
+      "daily": 1766788432943,
+      "weekly": 1766788445284,
+      "monthly": 1766788454710,
+      "yearly": 1766788460754,
+      "per": 0.5
+    },
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6282329713242": {
+    "chat": 91,
+    "role": "Temen Ngobrol, user premium",
+    "energy": 150,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1853472225307
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 8,
+      "reset": 1767162182010,
+      "response": false
+    },
+    "lastCharge": 1766797343269,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767827484539
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "visa",
+    "lastChat": 1768260699202,
+    "fswaps": {
+      "list": []
+    },
+    "pasangan": {
+      "she": "6283846359386@s.whatsapp.net",
+      "level": 0,
+      "gembok": false,
+      "status": "gantung",
+      "penembak": false,
+      "waktuNembak": "28/12/2025, 06.08.44",
+      "waktuTerima": null
+    },
+    "claimPremTrial": true
+  },
+  "6282144453367": {
+    "chat": 6,
+    "role": "Baru Kenal",
+    "energy": 201000177,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1767490070887,
+      "response": false
+    },
+    "lastCharge": 1766800573499,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767500072227
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "ASN_QYI",
+    "lastChat": 1767500057233,
+    "fswaps": {
+      "list": []
+    },
+    "afk": {
+      "time": 1767500057227,
+      "reason": "mau balik pondok"
+    }
+  },
+  "6285779069976": {
+    "chat": 61,
+    "role": "Temen Ngobrol",
+    "energy": 11598,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1767920908115,
+      "response": false
+    },
+    "lastCharge": 1766893027047,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768301403725
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "🗿Batu🗿",
+    "lastChat": 1768301388731,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1768040671598,
+      "weekly": 1767855455255,
+      "monthly": 1767061555439,
+      "yearly": 1767061596929,
+      "per": 0.9999999999999999
+    },
+    "pasangan": {
+      "she": "6288293376718@s.whatsapp.net",
+      "level": 0,
+      "gembok": false,
+      "status": "gantung",
+      "penembak": true,
+      "waktuNembak": "30/12/2025, 14.12.36",
+      "waktuTerima": null
+    },
+    "afk": {
+      "time": 1768301388726,
+      "reason": "bengong"
+    }
+  },
+  "6281396826549": {
+    "chat": 24,
+    "role": "Kenalan",
+    "energy": 15,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1768047546426,
+      "response": false
+    },
+    "lastCharge": 1768226664203,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768304466903
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Guwejh",
+    "lastChat": 1768304506376,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1767956313679,
+      "weekly": 0,
+      "monthly": 0,
+      "yearly": 0,
+      "per": 0.30000000000000004
+    }
+  },
+  "60192562539": {
+    "chat": 7,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 6,
+      "reset": 1766838015824,
+      "response": false
+    },
+    "lastCharge": 1766834415824,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "cid",
+    "lastChat": 1766837452865,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285142964450": {
+    "chat": 3,
+    "role": "Baru Kenal",
+    "energy": 140,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766840352408,
+      "response": false
+    },
+    "lastCharge": 1766836752408,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766872117337
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": ".",
+    "lastChat": 1766872111009,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6283821530542": {
+    "chat": 2,
+    "role": "Baru Kenal",
+    "energy": 100,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766843637258,
+      "response": false
+    },
+    "lastCharge": 1766840037258,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766845209513
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "ucup",
+    "lastChat": 1766933357708,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285648684231": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766849050546,
+      "response": false
+    },
+    "lastCharge": 1766845450546,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Diky",
+    "lastChat": 1767365697713,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285768062613": {
+    "chat": 49,
+    "role": "Teman Biasa",
+    "energy": 175,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1768218360827,
+      "response": false
+    },
+    "lastCharge": 1766851585474,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767871331299
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Rey,PHI 45",
+    "lastChat": 1768252738441,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6281212187068": {
+    "chat": 2,
+    "role": "Baru Kenal",
+    "energy": 400011656,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766857462086,
+      "response": false
+    },
+    "lastCharge": 1766853862086,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766854505314
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Fantasmita. 👻",
+    "lastChat": 1766854523229,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1766854119526,
+      "weekly": 1766854130762,
+      "monthly": 1766854141527,
+      "yearly": 1766854167378,
+      "per": 0.5
+    }
+  },
+  "62882008230503": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766858187706,
+      "response": false
+    },
+    "lastCharge": 1766854587706,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Nika Store",
+    "lastChat": 1766854588143
+  },
+  "6283178684258": {
+    "chat": 171,
+    "role": "Temen Lama",
+    "energy": 4415,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 2,
+      "reset": 1768136616374,
+      "response": false
+    },
+    "lastCharge": 1766854865150,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768257986867
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "FX_Fallzzz1kd",
+    "lastChat": 1768303463177,
+    "fswaps": {
+      "list": []
+    },
+    "pasangan": {
+      "she": "6285863508438@s.whatsapp.net",
+      "level": 0,
+      "gembok": false,
+      "status": "pacaran",
+      "penembak": true,
+      "waktuNembak": "30/12/2025, 19.56.31",
+      "waktuTerima": "30/12/2025, 19.56.43"
+    },
+    "claimPremTrial": 1767201360363
+  },
+  "6288293376718": {
+    "chat": 95,
+    "role": "Temen Ngobrol",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 4,
+      "reset": 1767900133963,
+      "response": false
+    },
+    "lastCharge": 1766888101600,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767099148802
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1767896793206,
+    "fswaps": {
+      "list": []
+    },
+    "name": "kapal lawud🗿👍",
+    "pasangan": {
+      "she": "6285779069976@s.whatsapp.net",
+      "level": 0,
+      "gembok": false,
+      "status": "gantung",
+      "penembak": false,
+      "waktuNembak": "30/12/2025, 14.12.36",
+      "waktuTerima": null
+    }
+  },
+  "6285743438638": {
+    "chat": 4568,
+    "role": "Pacar",
+    "energy": 180,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 6,
+      "reset": 1768053829334,
+      "response": false
+    },
+    "lastCharge": 1766894460578,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767965773639
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "yuuta TSC🏐",
+    "lastChat": 1768137294508,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285796606188": {
+    "chat": 8,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 3,
+      "reset": 1766984627143,
+      "response": false
+    },
+    "lastCharge": 1766895616375,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766981229639
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Fika",
+    "lastChat": 1766981228714,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285755177449": {
+    "chat": 2,
+    "role": "Baru Kenal",
+    "energy": 201,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1766899236249,
+      "response": false
+    },
+    "lastCharge": 1766895636249,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766896361977
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "honi chan",
+    "lastChat": 1766896351626,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1766896056365,
+      "weekly": 0,
+      "monthly": 0,
+      "yearly": 0,
+      "per": 0.2
+    }
+  },
+  "6282256760054": {
+    "chat": 4,
+    "role": "Baru Kenal",
+    "energy": 1,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767889682085,
+      "response": false
+    },
+    "lastCharge": 1766938195029,
+    "cooldown": {
+      "claim": 0,
+      "use": 2,
+      "reset": 1768303006489
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "—kyy jàvyvn",
+    "lastChat": 1768303024566,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6281229494723": {
+    "chat": 122,
+    "role": "Temen Gosip, user premium",
+    "energy": 150454,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1768495495876
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 65,
+      "reset": 1767201222224,
+      "response": false
+    },
+    "lastCharge": 1766981142974,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768301169626
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "~~h",
+    "lastChat": 1768301236460,
+    "fswaps": {
+      "list": []
+    },
+    "claimPremTrial": true,
+    "reward": {
+      "daily": 1767586273599,
+      "weekly": 0,
+      "monthly": 0,
+      "yearly": 0,
+      "per": 0.2
+    }
+  },
+  "62895396288029": {
+    "chat": 50,
+    "role": "Teman Biasa",
+    "energy": 100,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1768049110722,
+      "response": false
+    },
+    "lastCharge": 1766993604112,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767769957060
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Akizuki",
+    "lastChat": 1768045519737,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285713162185": {
+    "chat": 2,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1766998475128,
+      "response": false
+    },
+    "lastCharge": 1766994875128,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1766994906425
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1766995047822,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6282259866266": {
+    "chat": 25,
+    "role": "Kenalan",
+    "energy": 2194380,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 5,
+      "reset": 1767081029808,
+      "response": false
+    },
+    "lastCharge": 1767077429808,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768232258658
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Ferpedia",
+    "lastChat": 1768232249408,
+    "fswaps": {
+      "list": []
+    },
+    "claimPremTrial": true
+  },
+  "6285863508438": {
+    "chat": 284,
+    "role": "Temen Lama",
+    "energy": 12861,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1768118456615,
+      "response": false
+    },
+    "lastCharge": 1767093463399,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768138169923
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "FX_Mohel",
+    "lastChat": 1768138154930,
+    "pasangan": {
+      "she": "6283178684258@s.whatsapp.net",
+      "level": 0,
+      "gembok": false,
+      "status": "pacaran",
+      "penembak": false,
+      "waktuNembak": "30/12/2025, 19.56.31",
+      "waktuTerima": "30/12/2025, 19.56.43"
+    },
+    "reward": {
+      "daily": 1767708280648,
+      "weekly": 1767492564701,
+      "monthly": 0,
+      "yearly": 1767537668114,
+      "per": 0.6
+    },
+    "afk": {
+      "time": 1768138154923,
+      "reason": "Rahasia...",
+      "taggedBy": {
+        "62895429496556@s.whatsapp.net": 1
+      }
+    }
+  },
+  "6285137469263": {
+    "chat": 12,
+    "role": "Kenalan",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767969415869,
+      "response": false
+    },
+    "lastCharge": 1767101885245,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767965875774
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Luce",
+    "lastChat": 1767965860779,
+    "fswaps": {
+      "list": []
+    },
+    "afk": {
+      "time": 1767965860774,
+      "reason": "Sibuk Belajar Cripto"
+    }
+  },
+  "6282183816297": {
+    "chat": 222,
+    "role": "Temen Lama",
+    "energy": 2968,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1767890012238,
+      "response": false
+    },
+    "lastCharge": 1767197746550,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767886497058
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1767886847023,
+    "fswaps": {
+      "list": []
+    },
+    "claimPremTrial": 1767201343905,
+    "name": "🥹🥀"
+  },
+  "6288222033978": {
+    "chat": 3,
+    "role": "Baru Kenal, user premium",
+    "energy": 3200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1767287807300
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 2,
+      "reset": 1767204966109,
+      "response": false
+    },
+    "lastCharge": 1767201366109,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767202052755
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "nanaad🍃",
+    "lastChat": 1767202093747,
+    "claimPremTrial": 1767201407300,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6282238228919": {
+    "chat": 9,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767546179794,
+      "response": false
+    },
+    "lastCharge": 1767244540777,
+    "cooldown": {
+      "claim": 0,
+      "use": 2,
+      "reset": 1767245403530
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Barr is Here",
+    "lastChat": 1767786694852
+  },
+  "6287783201047": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248154080,
+      "response": false
+    },
+    "lastCharge": 1767244554080,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895321560605": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248154086,
+      "response": false
+    },
+    "lastCharge": 1767244554086,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282396640727": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248155999,
+      "response": false
+    },
+    "lastCharge": 1767244555999,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281339218514": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248163381,
+      "response": false
+    },
+    "lastCharge": 1767244563381,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285177283691": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248163382,
+      "response": false
+    },
+    "lastCharge": 1767244563382,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281910094713": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248215962,
+      "response": false
+    },
+    "lastCharge": 1767244615962,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281337197336": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248242631,
+      "response": false
+    },
+    "lastCharge": 1767244642631,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289527633561": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248316770,
+      "response": false
+    },
+    "lastCharge": 1767244716770,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "212624286803": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248337421,
+      "response": false
+    },
+    "lastCharge": 1767244737421,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289518941358": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248340840,
+      "response": false
+    },
+    "lastCharge": 1767244740840,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285836123729": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248356193,
+      "response": false
+    },
+    "lastCharge": 1767244756193,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281398961382": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248386547,
+      "response": false
+    },
+    "lastCharge": 1767244786547,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283143663697": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248388859,
+      "response": false
+    },
+    "lastCharge": 1767244788859,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "623846359386": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248401853,
+      "response": false
+    },
+    "lastCharge": 1767244801853,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282260526230": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248532935,
+      "response": false
+    },
+    "lastCharge": 1767244932935,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6287837001319": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248571149,
+      "response": false
+    },
+    "lastCharge": 1767244971149,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285137863155": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248594587,
+      "response": false
+    },
+    "lastCharge": 1767244994587,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282313745397": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248602240,
+      "response": false
+    },
+    "lastCharge": 1767245002240,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285189989755": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248605591,
+      "response": false
+    },
+    "lastCharge": 1767245005591,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285700158613": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248607582,
+      "response": false
+    },
+    "lastCharge": 1767245007582,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283184602430": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248612971,
+      "response": false
+    },
+    "lastCharge": 1767245012971,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283102050562": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248640584,
+      "response": false
+    },
+    "lastCharge": 1767245040584,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282324853300": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248678469,
+      "response": false
+    },
+    "lastCharge": 1767245078469,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283110928302": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248678475,
+      "response": false
+    },
+    "lastCharge": 1767245078475,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6288226579576": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248768771,
+      "response": false
+    },
+    "lastCharge": 1767245168771,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283851010908": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248777985,
+      "response": false
+    },
+    "lastCharge": 1767245177985,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363423232410557": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248785095,
+      "response": false
+    },
+    "lastCharge": 1767245185095,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767279333868
+  },
+  "120363420385250482": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248864962,
+      "response": false
+    },
+    "lastCharge": 1767245264962,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767276322402
+  },
+  "120363406980243496": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248865164,
+      "response": false
+    },
+    "lastCharge": 1767245265164,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767276332988
+  },
+  "6285167348380": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248882706,
+      "response": false
+    },
+    "lastCharge": 1767245282706,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283143776050": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248882712,
+      "response": false
+    },
+    "lastCharge": 1767245282712,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363422841562761": {
+    "chat": 1,
+    "role": "Baru Kenal, owner",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248885056,
+      "response": false
+    },
+    "lastCharge": 1767245285056,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767279831473
+  },
+  "6285117099399": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248885228,
+      "response": false
+    },
+    "lastCharge": 1767245285228,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "212612659037": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767248886736,
+      "response": false
+    },
+    "lastCharge": 1767245286736,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895429419787": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249039413,
+      "response": false
+    },
+    "lastCharge": 1767245439413,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628133992648": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249087943,
+      "response": false
+    },
+    "lastCharge": 1767245487943,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6288246552068": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249157115,
+      "response": false
+    },
+    "lastCharge": 1767245557115,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285751932381": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249186297,
+      "response": false
+    },
+    "lastCharge": 1767245586297,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289601032967": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249226043,
+      "response": false
+    },
+    "lastCharge": 1767245626043,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282172622047": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249337375,
+      "response": false
+    },
+    "lastCharge": 1767245737375,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628988685425": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249462210,
+      "response": false
+    },
+    "lastCharge": 1767245862210,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62882008942205": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249580075,
+      "response": false
+    },
+    "lastCharge": 1767245980075,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363401113812327": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249799975,
+      "response": false
+    },
+    "lastCharge": 1767246199975,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767280829526
+  },
+  "120363420360528990": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249915982,
+      "response": false
+    },
+    "lastCharge": 1767246315982,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767246316022
+  },
+  "5215639416240": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249977050,
+      "response": false
+    },
+    "lastCharge": 1767246377050,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363313605144461": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249983722,
+      "response": false
+    },
+    "lastCharge": 1767246383722,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767270964195
+  },
+  "120363403792940237": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767249987337,
+      "response": false
+    },
+    "lastCharge": 1767246387337,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767246490941
+  },
+  "6285123865643": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767250292868,
+      "response": false
+    },
+    "lastCharge": 1767246692868,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628884144910": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767250619165,
+      "response": false
+    },
+    "lastCharge": 1767247019165,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363338102578213": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251168663,
+      "response": false
+    },
+    "lastCharge": 1767247568664,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767276921385
+  },
+  "120363397080669554": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251193374,
+      "response": false
+    },
+    "lastCharge": 1767247593374,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767284147753
+  },
+  "120363420049587260": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251194068,
+      "response": false
+    },
+    "lastCharge": 1767247594068,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767277549454
+  },
+  "120363404741298748": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251195275,
+      "response": false
+    },
+    "lastCharge": 1767247595275,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767278670166
+  },
+  "6285147242271": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251367387,
+      "response": false
+    },
+    "lastCharge": 1767247767387,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289699912064": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251386324,
+      "response": false
+    },
+    "lastCharge": 1767247786324,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285927714119": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251423042,
+      "response": false
+    },
+    "lastCharge": 1767247823042,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283865139509": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767251432892,
+      "response": false
+    },
+    "lastCharge": 1767247832892,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281909789118": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253632992,
+      "response": false
+    },
+    "lastCharge": 1767250032992,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285643825255": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253642389,
+      "response": false
+    },
+    "lastCharge": 1767250042389,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363403745598312": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253659263,
+      "response": false
+    },
+    "lastCharge": 1767250059263,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767964522515
+  },
+  "6281529626572": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253689546,
+      "response": false
+    },
+    "lastCharge": 1767250089546,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363379021757799": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253751106,
+      "response": false
+    },
+    "lastCharge": 1767250151106,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767277925489
+  },
+  "6287784304401": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253794325,
+      "response": false
+    },
+    "lastCharge": 1767250194325,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283191939584": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253902367,
+      "response": false
+    },
+    "lastCharge": 1767250302367,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6287889918314": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253963954,
+      "response": false
+    },
+    "lastCharge": 1767250363954,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6288705655418": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767253979266,
+      "response": false
+    },
+    "lastCharge": 1767250379266,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285333088417": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 170,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254146061,
+      "response": false
+    },
+    "lastCharge": 1767250546061,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767580157113
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "odetdate222",
+    "lastChat": 1768128386511
+  },
+  "6287752184866": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254165728,
+      "response": false
+    },
+    "lastCharge": 1767250565728,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285810870323": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254176611,
+      "response": false
+    },
+    "lastCharge": 1767250576611,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289632014145": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254221500,
+      "response": false
+    },
+    "lastCharge": 1767250621501,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283863727401": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254357576,
+      "response": false
+    },
+    "lastCharge": 1767250757576,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363422880111822": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254380470,
+      "response": false
+    },
+    "lastCharge": 1767250780470,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767279131918
+  },
+  "6282120403484": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254384511,
+      "response": false
+    },
+    "lastCharge": 1767250784511,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281359407941": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254478574,
+      "response": false
+    },
+    "lastCharge": 1767250878574,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283166511872": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254491300,
+      "response": false
+    },
+    "lastCharge": 1767250891300,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283139365845": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254548761,
+      "response": false
+    },
+    "lastCharge": 1767250948761,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282152866630": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254604055,
+      "response": false
+    },
+    "lastCharge": 1767251004055,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282186452771": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254608961,
+      "response": false
+    },
+    "lastCharge": 1767251008961,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283108357464": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254789753,
+      "response": false
+    },
+    "lastCharge": 1767251189753,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6287718005190": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254796978,
+      "response": false
+    },
+    "lastCharge": 1767251196978,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285177058657": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254821634,
+      "response": false
+    },
+    "lastCharge": 1767251221634,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283846476474": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767254981289,
+      "response": false
+    },
+    "lastCharge": 1767251381289,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363402627716423": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255148916,
+      "response": false
+    },
+    "lastCharge": 1767251548916,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767269100371
+  },
+  "6285183131924": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255164581,
+      "response": false
+    },
+    "lastCharge": 1767251564581,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281313744252": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255206839,
+      "response": false
+    },
+    "lastCharge": 1767251606839,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283133492023": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255207237,
+      "response": false
+    },
+    "lastCharge": 1767251607237,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "558388682079": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255207514,
+      "response": false
+    },
+    "lastCharge": 1767251607514,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285795151241": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255207664,
+      "response": false
+    },
+    "lastCharge": 1767251607664,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285701414272": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255207961,
+      "response": false
+    },
+    "lastCharge": 1767251607961,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285798032822": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255208153,
+      "response": false
+    },
+    "lastCharge": 1767251608153,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895402495541": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255267205,
+      "response": false
+    },
+    "lastCharge": 1767251667205,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285607742196": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255268805,
+      "response": false
+    },
+    "lastCharge": 1767251668805,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6288808011465": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255269546,
+      "response": false
+    },
+    "lastCharge": 1767251669546,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285691304150": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255271160,
+      "response": false
+    },
+    "lastCharge": 1767251671160,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281324846720": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255272468,
+      "response": false
+    },
+    "lastCharge": 1767251672468,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "559292678251": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255281717,
+      "response": false
+    },
+    "lastCharge": 1767251681717,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895428441228": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255282791,
+      "response": false
+    },
+    "lastCharge": 1767251682791,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6287831893768": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255284300,
+      "response": false
+    },
+    "lastCharge": 1767251684300,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283892002532": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255297038,
+      "response": false
+    },
+    "lastCharge": 1767251697038,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283136099660": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255313870,
+      "response": false
+    },
+    "lastCharge": 1767251713870,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "50231458537": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255315664,
+      "response": false
+    },
+    "lastCharge": 1767251715664,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281220533069": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255315874,
+      "response": false
+    },
+    "lastCharge": 1767251715874,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281359932022": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255324294,
+      "response": false
+    },
+    "lastCharge": 1767251724294,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283825121214": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255333306,
+      "response": false
+    },
+    "lastCharge": 1767251733306,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62882020203777": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255342536,
+      "response": false
+    },
+    "lastCharge": 1767251742536,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281243825006": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255363994,
+      "response": false
+    },
+    "lastCharge": 1767251763994,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6288983059936": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255378006,
+      "response": false
+    },
+    "lastCharge": 1767251778006,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628973947589": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255393733,
+      "response": false
+    },
+    "lastCharge": 1767251793733,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289526377530": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255399157,
+      "response": false
+    },
+    "lastCharge": 1767251799157,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62882022295436": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767255401697,
+      "response": false
+    },
+    "lastCharge": 1767251801697,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285213187759": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267641925,
+      "response": false
+    },
+    "lastCharge": 1767264041925,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "84376148950": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267647786,
+      "response": false
+    },
+    "lastCharge": 1767264047786,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285282530851": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267673152,
+      "response": false
+    },
+    "lastCharge": 1767264073152,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285822819821": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267674019,
+      "response": false
+    },
+    "lastCharge": 1767264074019,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "84587890967": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267678063,
+      "response": false
+    },
+    "lastCharge": 1767264078063,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285777489193": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267689853,
+      "response": false
+    },
+    "lastCharge": 1767264089853,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283170786262": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267718157,
+      "response": false
+    },
+    "lastCharge": 1767264118157,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283839289696": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267718721,
+      "response": false
+    },
+    "lastCharge": 1767264118721,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289636303141": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267906425,
+      "response": false
+    },
+    "lastCharge": 1767264306425,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285931109567": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267930961,
+      "response": false
+    },
+    "lastCharge": 1767264330961,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285739614920": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267952065,
+      "response": false
+    },
+    "lastCharge": 1767264352065,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281371881236": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767267953251,
+      "response": false
+    },
+    "lastCharge": 1767264353251,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281279801219": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268091592,
+      "response": false
+    },
+    "lastCharge": 1767264491592,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285198853944": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268142341,
+      "response": false
+    },
+    "lastCharge": 1767264542341,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363375303989611": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268424041,
+      "response": false
+    },
+    "lastCharge": 1767264824041,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285974900047": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268535873,
+      "response": false
+    },
+    "lastCharge": 1767264935873,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6288989721627": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268622288,
+      "response": false
+    },
+    "lastCharge": 1767265022288,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363405233006232": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268666489,
+      "response": false
+    },
+    "lastCharge": 1767265066489,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767265477244
+  },
+  "6281235807940": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268761362,
+      "response": false
+    },
+    "lastCharge": 1767265161362,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282323780821": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767268937435,
+      "response": false
+    },
+    "lastCharge": 1767265337435,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285259941295": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269191754,
+      "response": false
+    },
+    "lastCharge": 1767265591754,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289677863465": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269207863,
+      "response": false
+    },
+    "lastCharge": 1767265607863,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283841417433": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269222464,
+      "response": false
+    },
+    "lastCharge": 1767265622464,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283152005632": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269421447,
+      "response": false
+    },
+    "lastCharge": 1767265821447,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363399226798445": {
+    "chat": 1,
+    "role": "Baru Kenal, owner",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269627200,
+      "response": false
+    },
+    "lastCharge": 1767266027200,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767275248863
+  },
+  "6285640158392": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269628098,
+      "response": false
+    },
+    "lastCharge": 1767266028098,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6287815194609": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269680292,
+      "response": false
+    },
+    "lastCharge": 1767266080292,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283191336206": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269720093,
+      "response": false
+    },
+    "lastCharge": 1767266120093,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "251719896313909": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269736532,
+      "response": false
+    },
+    "lastCharge": 1767266136532,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285810543376": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269891490,
+      "response": false
+    },
+    "lastCharge": 1767266291490,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283114439876": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269916358,
+      "response": false
+    },
+    "lastCharge": 1767266316358,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282257529886": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767269963750,
+      "response": false
+    },
+    "lastCharge": 1767266363750,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281936056347": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270223950,
+      "response": false
+    },
+    "lastCharge": 1767266623950,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285848664897": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270226798,
+      "response": false
+    },
+    "lastCharge": 1767266626798,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "HAH",
+    "lastChat": 1767267097374
+  },
+  "6282385969382": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270281636,
+      "response": false
+    },
+    "lastCharge": 1767266681636,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285881353992": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270595619,
+      "response": false
+    },
+    "lastCharge": 1767266995619,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281949448422": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270604204,
+      "response": false
+    },
+    "lastCharge": 1767267004204,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "270493080912120": {
+    "chat": 3,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270632642,
+      "response": false
+    },
+    "lastCharge": 1767267032642,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "cdIsJLid": 1767267641992,
+    "lastChat": 1767267043313
+  },
+  "628812531649": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270729146,
+      "response": false
+    },
+    "lastCharge": 1767267129146,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285727686329": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270797784,
+      "response": false
+    },
+    "lastCharge": 1767267197784,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363402972706157": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270830976,
+      "response": false
+    },
+    "lastCharge": 1767267230976,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767414070023
+  },
+  "6282279221765": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270862430,
+      "response": false
+    },
+    "lastCharge": 1767267262430,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "2250799961443": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270865155,
+      "response": false
+    },
+    "lastCharge": 1767267265155,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285959958567": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767270977506,
+      "response": false
+    },
+    "lastCharge": 1767267377506,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285194993977": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271083990,
+      "response": false
+    },
+    "lastCharge": 1767267483990,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282164987007": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271427280,
+      "response": false
+    },
+    "lastCharge": 1767267827280,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283184330923": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271497742,
+      "response": false
+    },
+    "lastCharge": 1767267897742,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282338794735": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271563025,
+      "response": false
+    },
+    "lastCharge": 1767267963025,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "13135550002": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271568836,
+      "response": false
+    },
+    "lastCharge": 1767267968836,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282130290629": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271683969,
+      "response": false
+    },
+    "lastCharge": 1767268083969,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628999864414": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271787850,
+      "response": false
+    },
+    "lastCharge": 1767268187850,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285260379345": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271830834,
+      "response": false
+    },
+    "lastCharge": 1767268230834,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283839582568": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271850254,
+      "response": false
+    },
+    "lastCharge": 1767268250254,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895326279051": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271850861,
+      "response": false
+    },
+    "lastCharge": 1767268250861,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363418003716250": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271870123,
+      "response": false
+    },
+    "lastCharge": 1767268270123,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767268297358
+  },
+  "6285122576015": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767271939454,
+      "response": false
+    },
+    "lastCharge": 1767268339454,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6287792514578": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272304874,
+      "response": false
+    },
+    "lastCharge": 1767268704874,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282177642366": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272482457,
+      "response": false
+    },
+    "lastCharge": 1767268882457,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281376494784": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272519621,
+      "response": false
+    },
+    "lastCharge": 1767268919621,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283190004491": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272524048,
+      "response": false
+    },
+    "lastCharge": 1767268924048,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363320190201453": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272639287,
+      "response": false
+    },
+    "lastCharge": 1767269039287,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363380343761245": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272719726,
+      "response": false
+    },
+    "lastCharge": 1767269119726,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767273120577
+  },
+  "6281907081900": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272843866,
+      "response": false
+    },
+    "lastCharge": 1767269243866,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285220275660": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767272911693,
+      "response": false
+    },
+    "lastCharge": 1767269311693,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Lucky",
+    "lastChat": 1767621089890
+  },
+  "120363422693233547": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767273009704,
+      "response": false
+    },
+    "lastCharge": 1767269409704,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767269409724
+  },
+  "6285624645780": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767273318945,
+      "response": false
+    },
+    "lastCharge": 1767269718945,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6288991541239": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767273552693,
+      "response": false
+    },
+    "lastCharge": 1767269952693,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281572480595": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767273862242,
+      "response": false
+    },
+    "lastCharge": 1767270262242,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282319125246": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767273876967,
+      "response": false
+    },
+    "lastCharge": 1767270276967,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283853908707": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767273994370,
+      "response": false
+    },
+    "lastCharge": 1767270394370,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283150230658": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767274291475,
+      "response": false
+    },
+    "lastCharge": 1767270691475,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283163686712": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767274376760,
+      "response": false
+    },
+    "lastCharge": 1767270776760,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285396340845": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767274562091,
+      "response": false
+    },
+    "lastCharge": 1767270962091,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363398674747904": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767274645958,
+      "response": false
+    },
+    "lastCharge": 1767271045958,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363273024696496": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767274646001,
+      "response": false
+    },
+    "lastCharge": 1767271046001,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282293836391": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767275732565,
+      "response": false
+    },
+    "lastCharge": 1767272132565,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283111380628": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767275743230,
+      "response": false
+    },
+    "lastCharge": 1767272143230,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285166195310": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767275906751,
+      "response": false
+    },
+    "lastCharge": 1767272306751,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285733326427": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767276054549,
+      "response": false
+    },
+    "lastCharge": 1767272454549,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282148780403": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767276121297,
+      "response": false
+    },
+    "lastCharge": 1767272521297,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281319859673": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767276158796,
+      "response": false
+    },
+    "lastCharge": 1767272558796,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285124037519": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767276193786,
+      "response": false
+    },
+    "lastCharge": 1767272593787,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285167064521": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767276263363,
+      "response": false
+    },
+    "lastCharge": 1767272663364,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285643414834": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767276280957,
+      "response": false
+    },
+    "lastCharge": 1767272680957,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281253754307": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767276959096,
+      "response": false
+    },
+    "lastCharge": 1767273359096,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285176955771": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277099455,
+      "response": false
+    },
+    "lastCharge": 1767273499455,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282276330839": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277110225,
+      "response": false
+    },
+    "lastCharge": 1767273510225,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283164497383": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277170887,
+      "response": false
+    },
+    "lastCharge": 1767273570887,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628815055173": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277238307,
+      "response": false
+    },
+    "lastCharge": 1767273638307,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285267907972": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277518559,
+      "response": false
+    },
+    "lastCharge": 1767273918559,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285704233272": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277543349,
+      "response": false
+    },
+    "lastCharge": 1767273943349,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895330379186": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277706166,
+      "response": false
+    },
+    "lastCharge": 1767274106166,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281358844701": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277824627,
+      "response": false
+    },
+    "lastCharge": 1767274224627,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895802285200": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767277899860,
+      "response": false
+    },
+    "lastCharge": 1767274299860,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "93777348864": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767278283416,
+      "response": false
+    },
+    "lastCharge": 1767274683416,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281340019858": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767278948336,
+      "response": false
+    },
+    "lastCharge": 1767275348336,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "14587232897": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279057212,
+      "response": false
+    },
+    "lastCharge": 1767275457212,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281235552755": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279139117,
+      "response": false
+    },
+    "lastCharge": 1767275539117,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "32472916180": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279149559,
+      "response": false
+    },
+    "lastCharge": 1767275549559,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281540094604": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279205999,
+      "response": false
+    },
+    "lastCharge": 1767275605999,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282172589188": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279253458,
+      "response": false
+    },
+    "lastCharge": 1767275653458,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62881026602593": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279315947,
+      "response": false
+    },
+    "lastCharge": 1767275715947,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285264373783": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279414177,
+      "response": false
+    },
+    "lastCharge": 1767275814177,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363420389509771": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279502370,
+      "response": false
+    },
+    "lastCharge": 1767275902370,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767277532572
+  },
+  "6283138855519": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767279942671,
+      "response": false
+    },
+    "lastCharge": 1767276342671,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6287794788073": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767280118936,
+      "response": false
+    },
+    "lastCharge": 1767276518936,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289606547575": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767280424147,
+      "response": false
+    },
+    "lastCharge": 1767276824147,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282180385882": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767280575795,
+      "response": false
+    },
+    "lastCharge": 1767276975795,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283153703198": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767280683165,
+      "response": false
+    },
+    "lastCharge": 1767277083165,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285176708678": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767281038519,
+      "response": false
+    },
+    "lastCharge": 1767277438519,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628818092741": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767281156631,
+      "response": false
+    },
+    "lastCharge": 1767277556631,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363423213363091": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282010022,
+      "response": false
+    },
+    "lastCharge": 1767278410022,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895402758089": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282010399,
+      "response": false
+    },
+    "lastCharge": 1767278410399,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283851090391": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282311832,
+      "response": false
+    },
+    "lastCharge": 1767278711832,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6289526974458": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282391935,
+      "response": false
+    },
+    "lastCharge": 1767278791935,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "262740966899951": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282398023,
+      "response": false
+    },
+    "lastCharge": 1767278798023,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895323405669": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282419165,
+      "response": false
+    },
+    "lastCharge": 1767278819165,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282183527330": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282481563,
+      "response": false
+    },
+    "lastCharge": 1767278881563,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282326526041": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282646876,
+      "response": false
+    },
+    "lastCharge": 1767279046876,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283846359386": {
+    "chat": 77,
+    "role": "Temen Ngobrol, user premium",
+    "energy": 93517,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 2567902410342
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 95,
+      "reset": 1767323327136,
+      "response": false
+    },
+    "lastCharge": 1767279096398,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768303353401
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1768305096623,
+    "fswaps": {
+      "list": []
+    },
+    "claimPremTrial": true,
+    "name": "HAH"
+  },
+  "6281378888724": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282727141,
+      "response": false
+    },
+    "lastCharge": 1767279127141,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "155882113495092": {
+    "chat": 4,
+    "role": "Baru Kenal, owner",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282756871,
+      "response": false
+    },
+    "lastCharge": 1767279156871,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767279312065
+    },
+    "flow": 1,
+    "coins": 1,
+    "cdIsJLid": 1767279898085,
+    "lastChat": 1767279299291,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6283117172079": {
+    "chat": 3,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767282763151,
+      "response": false
+    },
+    "lastCharge": 1767279163151,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767279351799
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "HAH",
+    "lastChat": 1767279488641
+  },
+  "6283835155437": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 180,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767283143182,
+      "response": false
+    },
+    "lastCharge": 1767279543182,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767664232087
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Maxiel Nuoye ོ",
+    "lastChat": 1767760555911,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6287785162460": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767283223737,
+      "response": false
+    },
+    "lastCharge": 1767279623737,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "231937344045073": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767283519925,
+      "response": false
+    },
+    "lastCharge": 1767279919925,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285235459036": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767283526790,
+      "response": false
+    },
+    "lastCharge": 1767279926790,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363401374466793": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767283662103,
+      "response": false
+    },
+    "lastCharge": 1767280062103,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "lastChat": 1767282581175
+  },
+  "6287830234141": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767283897322,
+      "response": false
+    },
+    "lastCharge": 1767280297322,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283107784434": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767283982519,
+      "response": false
+    },
+    "lastCharge": 1767280382519,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "628881474436": {
+    "chat": 11,
+    "role": "Kenalan",
+    "energy": 335,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1768006127791,
+      "response": false
+    },
+    "lastCharge": 1767280660028,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767853811891
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": ".",
+    "lastChat": 1768002532069,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1767767421722,
+      "weekly": 1767767415135,
+      "monthly": 0,
+      "yearly": 0,
+      "per": 0.30000000000000004
+    }
+  },
+  "6287781074928": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767284375907,
+      "response": false
+    },
+    "lastCharge": 1767280775907,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285133023457": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767284494114,
+      "response": false
+    },
+    "lastCharge": 1767280894114,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281808011514": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767284618823,
+      "response": false
+    },
+    "lastCharge": 1767281018823,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285847301890": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767284720168,
+      "response": false
+    },
+    "lastCharge": 1767281120168,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282134655461": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767284788539,
+      "response": false
+    },
+    "lastCharge": 1767281188539,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282113443806": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767285209624,
+      "response": false
+    },
+    "lastCharge": 1767281609624,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285745150170": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767285589791,
+      "response": false
+    },
+    "lastCharge": 1767281989791,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283152408137": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767285659754,
+      "response": false
+    },
+    "lastCharge": 1767282059754,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "601111086544": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767285875109,
+      "response": false
+    },
+    "lastCharge": 1767282275109,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282111887061": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767286248227,
+      "response": false
+    },
+    "lastCharge": 1767282648227,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "120363398879034090": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767287129474,
+      "response": false
+    },
+    "lastCharge": 1767283529474,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285894400371": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767313756013,
+      "response": false
+    },
+    "lastCharge": 1767310156013,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767314297751
+    },
+    "flow": 1,
+    "coins": 1,
+    "pasangan": {},
+    "name": "Zahrr",
+    "lastChat": 1767314282758,
+    "fswaps": {
+      "list": []
+    },
+    "afk": {
+      "time": 1767314282752,
+      "reason": "ngga boleh ada yg tag"
+    }
+  },
+  "6285368773972": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767314404923,
+      "response": false
+    },
+    "lastCharge": 1767310804923,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285769446162": {
+    "chat": 2,
+    "role": "Baru Kenal",
+    "energy": 185,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767866770489,
+      "response": false
+    },
+    "lastCharge": 1767312025594,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767863216052
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "♪Na Senpai♪",
+    "lastChat": 1767920961929,
+    "pasangan": {}
+  },
+  "6288980908750": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767320984818,
+      "response": false
+    },
+    "lastCharge": 1767317384818,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285895771031": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767320984818,
+      "response": false
+    },
+    "lastCharge": 1767317384818,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Daevis 🇧🇷",
+    "lastChat": 1767422219588
+  },
+  "4598108951": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767322066070,
+      "response": false
+    },
+    "lastCharge": 1767318466070,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282156107559": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767325017010,
+      "response": false
+    },
+    "lastCharge": 1767321417010,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "003109754": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767328831686,
+      "response": false
+    },
+    "lastCharge": 1767325231686,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285184115646": {
+    "chat": 11,
+    "role": "Kenalan",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767367287619,
+      "response": false
+    },
+    "lastCharge": 1767327741468,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "vanz",
+    "lastChat": 1767363689416
+  },
+  "6283171694595": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331341468,
+      "response": false
+    },
+    "lastCharge": 1767327741468,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6283125056731": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331341468,
+      "response": false
+    },
+    "lastCharge": 1767327741468,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6282184749173": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331341468,
+      "response": false
+    },
+    "lastCharge": 1767327741468,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Impidimp",
+    "lastChat": 1767535383108
+  },
+  "6282173012085": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331341468,
+      "response": false
+    },
+    "lastCharge": 1767327741468,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "60148316232": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331341468,
+      "response": false
+    },
+    "lastCharge": 1767327741468,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "ll",
+    "lastChat": 1767357588983,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "1005440010020": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331558938,
+      "response": false
+    },
+    "lastCharge": 1767327958938,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "1005330020040": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767331767670,
+      "response": false
+    },
+    "lastCharge": 1767328167670,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "075261013": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767346940335,
+      "response": false
+    },
+    "lastCharge": 1767343340335,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "008815554": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767346940335,
+      "response": false
+    },
+    "lastCharge": 1767343340335,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "186591196794959": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767347299948,
+      "response": false
+    },
+    "lastCharge": 1767343699948,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6285805440133": {
+    "chat": 1,
+    "role": "Baru Kenal, owner",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767347356635,
+      "response": false
+    },
+    "lastCharge": 1767343756635,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": ">~<",
+    "lastChat": 1767344010439
+  },
+  "191770977693734": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767347648169,
+      "response": false
+    },
+    "lastCharge": 1767344048169,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1767504933000
+  },
+  "6283184172728": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767347660386,
+      "response": false
+    },
+    "lastCharge": 1767344060386,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "62895429496556": {
+    "chat": 7,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1768141864835,
+      "response": false
+    },
+    "lastCharge": 1767357213418,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768138266910
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1768275270908,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Alisa Mikhailovna Kujou"
+  },
+  "6285729335266": {
+    "chat": 3,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767366488094,
+      "response": false
+    },
+    "lastCharge": 1767362888094,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1767367324229,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6283840508632": {
+    "chat": 339,
+    "role": "Temen Hangout",
+    "energy": 9589.885,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1768136392175,
+      "response": false
+    },
+    "lastCharge": 1767508991362,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768134907725
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "~ Luhanzk",
+    "lastChat": 1768134893927,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1767534259500,
+      "weekly": 0,
+      "monthly": 1767534269638,
+      "yearly": 1767534274940,
+      "per": 0.4
+    }
+  },
+  "6281515340807": {
+    "chat": 153,
+    "role": "Temen Lama",
+    "energy": 8057.165000000001,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 11,
+      "reset": 1768117712626,
+      "response": false
+    },
+    "lastCharge": 1767522165466,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768295808257
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "YUUKA~",
+    "lastChat": 1768295793262,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1767856618804,
+      "weekly": 1767534275187,
+      "monthly": 1767534288701,
+      "yearly": 1767522165970,
+      "per": 0.6
+    }
+  },
+  "6285861615245": {
+    "chat": 72,
+    "role": "Temen Ngobrol",
+    "energy": 713.1659999999998,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 4,
+      "reset": 1768218715537,
+      "response": false
+    },
+    "lastCharge": 1768015848196,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768302478851
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Rapi Botqxs",
+    "lastChat": 1768302464563,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1768015513293,
+      "weekly": 0,
+      "monthly": 0,
+      "yearly": 0,
+      "per": 0.2
+    }
+  },
+  "6281361281064": {
+    "chat": 37,
+    "role": "Teman Biasa",
+    "energy": 190,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767610892508,
+      "response": false
+    },
+    "lastCharge": 1767673477207,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767955696226
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "cioomiya",
+    "lastChat": 1768233258571,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6283869194808": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767439064170,
+      "response": false
+    },
+    "lastCharge": 1767435464170,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "amora",
+    "lastChat": 1767435464485
+  },
+  "6281266021637": {
+    "chat": 13,
+    "role": "Kenalan",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 12,
+      "reset": 1767439324549,
+      "response": false
+    },
+    "lastCharge": 1767435724549,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767435913640
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "penjaga bumi(modetobat😇)",
+    "lastChat": 1767522802168,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285792796169": {
+    "chat": 50,
+    "role": "Teman Biasa",
+    "energy": 190,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767487058642,
+      "response": false
+    },
+    "lastCharge": 1767483458642,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767865618540
+    },
+    "flow": 1,
+    "coins": 1,
+    "lastChat": 1768305097009,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6287887739289": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767519422843,
+      "response": false
+    },
+    "lastCharge": 1767515822843,
+    "cooldown": {
+      "claim": 0,
+      "use": 2,
+      "reset": 1767516106580
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "LTD-_-",
+    "lastChat": 1767516168307
+  },
+  "6283187510780": {
+    "chat": 10,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 2,
+      "reset": 1767522028408,
+      "response": false
+    },
+    "lastCharge": 1767518428408,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1767529175397
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Ngok.",
+    "lastChat": 1767529166677,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285188322188": {
+    "chat": 97,
+    "role": "Temen Ngobrol, user premium",
+    "energy": 2550,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "energy": 1500,
+      "chargeRate": 0.1,
+      "maxCharge": 850,
+      "time": 1799795313921
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 4,
+      "reset": 1768225368928,
+      "response": false
+    },
+    "lastCharge": 1767942422333,
+    "cooldown": {
+      "claim": 0,
+      "use": 2,
+      "reset": 1768305087066
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "cynthiaaa?",
+    "lastChat": 1768305092502,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1767975271976,
+      "weekly": 0,
+      "monthly": 0,
+      "yearly": 0,
+      "per": 0.2
+    },
+    "claimPremTrial": true
+  },
+  "6285123620585": {
+    "chat": 1,
+    "role": "Baru Kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1767537291193,
+      "response": false
+    },
+    "lastCharge": 1767533691193,
+    "cooldown": {
+      "claim": 0,
+      "use": 2,
+      "reset": 1768269244980
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "~fa",
+    "lastChat": 1768269245239,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6285797205405": {
+    "chat": 10,
+    "role": "Baru Kenal",
+    "energy": 10,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1768306385953,
+      "response": false
+    },
+    "lastCharge": 1768035296795,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768302784989
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Zxeega◇°",
+    "lastChat": 1768302795405,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6283870289807": {
+    "chat": 73,
+    "role": "Temen Ngobrol",
+    "energy": 8430,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 1,
+      "reset": 1768298521737,
+      "response": false
+    },
+    "lastCharge": 1768133341893,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768303230010
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "V4nZ😎",
+    "lastChat": 1768303215344,
+    "fswaps": {
+      "list": []
+    },
+    "reward": {
+      "daily": 1768140225750,
+      "weekly": 1768140221759,
+      "monthly": 1768140188897,
+      "yearly": 1768140181242,
+      "per": 0.5
+    }
+  },
+  "6285245492585": {
+    "chat": 28,
+    "role": "Kenalan",
+    "energy": 140,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 8,
+      "reset": 1768304782422,
+      "response": false
+    },
+    "lastCharge": 1768294970163,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1768304036604
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "MarioTeguhMC~- 『𝐓'𝐒𝐃』",
+    "lastChat": 1768304314407,
+    "fswaps": {
+      "list": []
+    }
+  }
+}
