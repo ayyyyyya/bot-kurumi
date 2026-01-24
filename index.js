@@ -1,14 +1,4 @@
-/** !-======[ Experimentall ▪︎ Bell🦋 ]======-!
-      * Coding by @rifza.p.p *     
-      
-      🩵 Follow ️me on :
-      ▪︎ https://youtube.com/@rifza  
-      ▪︎ https://github.com/Rifza123
-      ▪︎ https://instagram.com/rifza.p.p?igshid=ZGUzMzM3NWJiOQ==
-      ▪︎ https://www.threads.net/@rifza.p.p
-      ▪︎ https://termai.cc
-      ▪︎ https://xterm.tech
-  */
+
 /*!-======[ Preparing Configuration ]======-!*/
 import './toolkit/set/string.prototype.js';
 let { initialize } = await './toolkit/set/global.js'.r();
